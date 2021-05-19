@@ -1,0 +1,152 @@
+{"productData" : [
+  {
+    "id": "01",
+    "badge_label": "Best Seller",
+    "badge_supplementary": "in HDTVs",
+    "title":
+      "32 LED HDTV by Continu.us | CT-3270 HDTV 720p 60Hz LED, Eco-Friendly Television Lightweight and Slim Design HDMI/USB/VGA Inputs with Full Function Remote",
+    "description": {
+      "title": "This will display the products description...",
+      "full": "This will display the full description...",
+      "additional": [
+        "HDMI - 3 HDMI ports that delivers superior quality high definition video and audio.",
+        "USB - The USB port will allow you to access your images and view them as a slideshow, listen to your favorite music and is USB Cloning Capable which allows you to duplicate your TV configurations for easy installation.",
+        "VGA Computer Input - The VGA port will allow you to connect your Computer.",
+        "VESA Wall Mount Ready - The light and compact design makes it easy to mount to your wall. VESA pattern compatible.",
+        "Wireless Speaker Compatible - Connect to any wireless speaker system.",
+        "Volume Limiter - The Volume limiter function is perfect if you want to control a maximum volume for your TV. You can set it to a level you're comfortable with."
+      ]
+    },
+    "images": [
+      "https://m.media-amazon.com/images/I/61I3KeUvKbL._AC_UL320_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/I/7180VUXvHcL._AC_SX355_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/I/51xykzXtMnL._AC_SX355_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/I/91AMAOlgn0L._AC_SX355_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/I/91d%2BplJBCML._AC_SX355_.jpg"
+    ],
+    "price": "22",
+    "rating": "3",
+    "department": "Department1",
+    "category": "Category1",
+    "brand": "Brand1"
+  },
+  {
+    "id": "02",
+    "badge_label": "Best Seller",
+    "badge_supplementary": "in HDTVs",
+    "title": "Nintendo Switch with Neon Blue and Neon Red Joy‑Con - HAC-001(-01)",
+    "description": {
+      "title": "This will display the products description...",
+      "full": "This will display the full description...",
+      "additional": ["This is additional attributes etc..."]
+    },
+    "images": [
+      "https://m.media-amazon.com/images/I/61-PblYntsL._AC_UL320_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/I/71lfEWM9AYL._AC_SL1500_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/I/71ILSOE6ovL._AC_SL1500_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/I/71CZEg9K3AL._AC_SL1500_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/I/81LV3J0EA9L._AC_SL1500_.jpg"
+    ],
+    "price": "364.99",
+    "rating": "3",
+    "department": "Department2",
+    "category": "Category2",
+    "brand": "Brand2"
+  },
+  {
+    "id": "03",
+    "badge_label": "Best Seller",
+    "badge_supplementary": "in Laptops",
+    "title":
+      "Acer Aspire 5 Slim Laptop, 15.6 inches Full HD IPS Display, AMD Ryzen 3 3200U, Vega 3 Graphics, 4GB DDR4, 128GB SSD, Backlit Keyboard, Windows 10 in S Mode, A515-43-R19L, Silver",
+    "description": {
+      "title": "This will display the products description...",
+      "full": "This will display the full description...",
+      "additional": ["This is additional attributes etc..."]
+    },
+    "images": [
+      "https://m.media-amazon.com/images/I/71vvXGmdKWL._AC_UL320_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/I/61176H1a4cL._AC_SL1000_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/I/71RASfOB8IL._AC_SL1500_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/I/81vNRgHlqGL._AC_SL1500_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/I/715OQs2sA%2BL._AC_SL1500_.jpg"
+    ],
+    "price": "22",
+    "rating": "3",
+    "department": "Department3",
+    "category": "Category3",
+    "brand": "Brand3"
+  },
+  {
+    "id": "04",
+    "badge_label": "Best Seller",
+    "badge_supplementary": "in Computer Accessories",
+    "title":
+      "USB Computer Microphone, Cardioid Condenser Mic for Desktop PC/Laptop with Pop Filter, Anti-Vibration Shock Mount, Mute Button, for Online Gaming, Vocals, YouTube, Podcasting, Streaming - JV906",
+    "description": {
+      "title": "This will display the products description...",
+      "full": "This will display the full description...",
+      "additional": ["This is additional attributes etc..."]
+    },
+    "images": [
+      "https://m.media-amazon.com/images/I/611BtQEnxuL._AC_UL320_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/I/71WJzDRc1zL._AC_SL1500_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/I/717QzoWPbcL._AC_SL1500_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/I/71PIi2u%2By5L._AC_SL1500_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/I/71-0XTaSMSL._AC_SL1500_.jpg"
+    ],
+    "price": "22",
+    "rating": "4",
+    "department": "Department4",
+    "category": "Category4",
+    "brand": "Brand4"
+  },
+  {
+    "id": "05",
+    "badge_label": "Amazon Choice",
+    "badge_supplementary": "in Medical Procedure Masks",
+    "title":
+      "50PCS 3 ply black disposable face shield filter protection breathable dust proof",
+    "description": {
+      "title": "This will display the products description...",
+      "full": "This will display the full description...",
+      "additional": ["This is additional attributes etc..."]
+    },
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/I/51yb4HntK1L._SCLZZZZZZZ___AA210_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/I/71CDpirhtDL._SL1100_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/I/61K2h6ZpL0L._SL1000_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/I/51vOw4VZnLL.jpg",
+      "https://images-na.ssl-images-amazon.com/images/I/61otknanDvL._SL1200_.jpg"
+    ],
+    "price": "9.99",
+    "rating": "4",
+    "department": "Department5",
+    "category": "Category5",
+    "brand": "Brand5"
+  },
+  {
+    "id": "06",
+    "badge_label": "Best Seller",
+    "badge_supplementary": "in Phone cases",
+    "title":
+      "TENOC Phone Case for Apple iPhone XR Case, Clear Back Cover Bumper Case Compatible for iPhone XR 6.1-Inch, Black",
+    "description": {
+      "title": "This will display the products description...",
+      "full": "This will display the full description...",
+      "additional": ["This is additional attributes etc..."]
+    },
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/I/615Bj0hEzCL._AC_SX679_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/I/61pAAcMeCyL._AC_SL1500_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/I/61LIMu%2BDyXL._AC_SL1500_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/I/71fgOGpbP4L._AC_SL1500_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/I/71UZM2qLllL._AC_SL1500_.jpg"
+    ],
+    "price": "9.99",
+    "rating": "4",
+    "department": "Department6",
+    "category": "Category6",
+    "brand": "Brand6"
+  }
+]}
